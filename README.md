@@ -67,10 +67,10 @@ The script will:
 
 | Service | URL |
 |---|---|
-| Admin Portal | http://localhost:3000 |
-| API | http://localhost:3001/api/v1 |
-| Swagger / OpenAPI | http://localhost:3001/api/v1/docs |
-| Health check | http://localhost:3001/health |
+| Admin Portal | http://localhost:3004 |
+| API | http://localhost:3003/api/v1 |
+| Swagger / OpenAPI | http://localhost:3003/api/v1/docs |
+| Health check | http://localhost:3003/health |
 
 **Default login**  
 Email: `admin@ebamicroinsurance.co.zw`  
